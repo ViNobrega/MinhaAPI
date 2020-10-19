@@ -1,1 +1,1 @@
-escreve o que eh esse projeto 
+Este é o primeiro passo da API. Continuação do antigo perfil.
